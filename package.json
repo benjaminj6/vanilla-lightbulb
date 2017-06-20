@@ -1,0 +1,19 @@
+{
+  "name": "vanilla-lightbulb",
+  "version": "0.1.0",
+  "description": "A simple lightbulb using vanilla js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminj6/vanilla-lightbulb.git"
+  },
+  "author": "Benjamin Johnson <benjamin.d.johnson@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benjaminj6/vanilla-lightbulb/issues"
+  },
+  "homepage": "https://github.com/benjaminj6/vanilla-lightbulb#readme"
+}
